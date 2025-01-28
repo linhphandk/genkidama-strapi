@@ -1,0 +1,1 @@
+# genkidama-strapi
